@@ -1,5 +1,18 @@
 teste
 a
+teste
+teste
+teste
+teste
+
+teste
+teste
+teste
+teste
+
+Alteração realizada em funcionalidade A 
+
+A
 b
 c
 d
@@ -9,3 +22,7 @@ g
 h
 i
 j
+  %%%%%%%%%%%%%%%%%%%          teste Luís Edu   %%%%%%%%%%%%%%%%%%%
+
+
+xxxxxxxxxxxxxxxxxxx Luís Edu xxxxxxxxxxxxxxxxxxxxx
